@@ -1,7 +1,5 @@
 name: Deploy Website
 
-name: Deploy Website
-
 on: [push]
 
 jobs:
